@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/astergabe" target="blank"><img src="https://img.shields.io/twitter/follow/astergabe?logo=twitter&style=for-the-badge" alt="astergabe" /></a> </p>
 
-- 🔭 I’m currently working at **Dell Technologies as**
+- 🔭 I’m currently working at **Dell Technologies** as a **Product Designer Intern**
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JS, Bootstrap, MySQL, Angular and more**
 
