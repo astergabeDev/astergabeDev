@@ -6,7 +6,7 @@ const WhoAmI = {
   user: "Gabriel Fernandes",
   role: "fullstack",
   current_job: [
-   "Front-end intern - Dell
+   "Front-end intern - Dell"
   ],
   current_edu: [
    "Computer Science - Unisinos",
