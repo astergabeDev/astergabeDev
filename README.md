@@ -13,7 +13,7 @@ const WhoAmI = {
    "Codecademy"
   ],
   hobbies: [
-   "Studies",
+   "Solving Problems",
    "Formula 1",
    "World of Warcraft",
    "NFL"
@@ -24,6 +24,8 @@ const WhoAmI = {
 	
 function Ambitions() {
 	travelToJapan()
+	travelToUS()
+	travelToUK()
 	liveAbroad()
 	beEfectivatedAtDell()
 
