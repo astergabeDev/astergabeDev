@@ -1,15 +1,31 @@
-<h1 align="center">Hi 👋,  I'm Gabriel Fernandes</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astergabedev&label=Profile%20views&color=0e75b6&style=flat" alt="astergabedev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/astergabe" target="blank"><img src="https://img.shields.io/twitter/follow/astergabe?logo=twitter&style=for-the-badge" alt="astergabe" /></a> </p>
-
-- 🔭 I’m currently working at **Dell Technologies** as a **Product Designer Intern**
-
-- 🌱 I’m currently learning **Java, HTML, CSS, JS, Bootstrap, MySQL, Angular and more**
-
-- 📫 How to reach me **gabiferpub@gmail.com**
+```javascript
+ 
+const WhoAmI = {
+  user: "Gabriel Fernandes",
+  role: "fullstack",
+  current_job: [
+   "Front-end intern - Dell
+  ],
+  current_edu: [
+   "Computer Science - Unisinos",
+   "Codecademy"
+  ],
+  hobbies: [
+   "Studies",
+   "Formula 1",
+   "World of Warcraft",
+   "NFL"
+    ]
+  }
+	
+ const getCurrentCity = () => PortoAlegre_Brazil
+	
+function Ambitions() {
+	travelToJapan()
+	liveAbroad()
+	beEfectivatedAtDell()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
