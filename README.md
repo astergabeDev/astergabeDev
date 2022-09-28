@@ -1,4 +1,4 @@
-<h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2>Hello world!<img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media.giphy.com/media/CAYVZA5NRb529kKQUc/giphy.gif)" width="50"></h2> 
 
 ```javascript
  
